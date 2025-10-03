@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @akifkhans
-- 👀 I’m interested in ... AI, ML, WEBDESIGN. 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... DATA ANALYSIS, WEBDESIGN, WEBDEVELOPMENT,  
+- 🌱 I’m currently learning ... FULL STACK with html, css and java/ javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .akifkhans489@gmail.com
+- 📫 How to reach me : akifkhans489@gmail.com
 - 😄 Pronouns: AKIF
-- ⚡ Fun fact: ...
 
 <!---
 akifkhans/akifkhans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
